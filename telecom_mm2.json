@@ -1,0 +1,39 @@
+{
+    "name": "Telecom",
+    "URI": "http://univ-pau.fr/telecom/graphic",
+    "classes": [
+        {
+            "name": "router",
+            "attributes": [{
+                "v1": "https://raw.githubusercontent.com/choleil/model_gltf/main/router.glb"
+            }
+            ]
+        },
+        {
+            "name": "computer",
+            "attributes": [{
+                "v1": "https://raw.githubusercontent.com/choleil/model_gltf/main/laptopAA.glb"
+            }
+            ]
+
+        },
+        {
+            "name": "smartphone",
+            "attributes": [{
+                "v1": "https://raw.githubusercontent.com/choleil/model_gltf/main/prototype_of_unnamed_smartphone.glb"
+            }
+            ]
+
+        },
+        {
+            "name": "connexion",
+            "attributes": [{
+                "red": "0",
+                "green": "255",
+                "blue":  "244"
+            }
+            ]
+
+        }
+    ]
+}
